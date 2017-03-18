@@ -1,5 +1,5 @@
 /**
- * Created by Yellow on 16-4-13.
+ * Created by Nekoooo on 16-4-13.
  */
 var cells = null;
 var jq = jQuery.noConflict();
