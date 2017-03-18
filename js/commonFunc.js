@@ -14,7 +14,6 @@ function direction(beginX,beginY,endX,endY){
             else return 39;
         }
     }else{
-        //console.log('no move:deltax:'+deltax+" deltay:"+deltay);
         return 0;
     }
 
