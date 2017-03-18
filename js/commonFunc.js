@@ -1,5 +1,5 @@
 /**
- * Created by Yellow on 16-4-13.
+ * Created by Nekoooooo on 16-4-13.
  */
 function direction(beginX,beginY,endX,endY){
     var deltax = endX-beginX;
